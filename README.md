@@ -1,0 +1,2 @@
+# HttpResponseRawStringParser
+HTTPレスポンスの文字列をパースするライブラリです
